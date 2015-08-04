@@ -1,0 +1,34 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en-US">
+{% include post_header.html %}
+
+<body>
+<div id="container">
+<div id="container-inner">
+<div id="banner">
+<div id="banner-inner">
+<div id="banner-header">
+<h1> {{ page.title}} </h1>
+</div>
+</div>
+</div>
+
+<div id="pagebody">
+<div id="pagebody-inner" class="pkg">
+<div id="alpha">
+<div id="alpha-inner" class="pkg">
+  {{ content }}
+  </div>
+  </div>
+  {% include sidebar.html %}
+
+  {% include post_footer.html %}
+
+  </div>
+  </div>
+  </div>
+  </div>
+  </body>
+  </html>

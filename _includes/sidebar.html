@@ -1,0 +1,16 @@
+<div id="beta">
+  <div id="beta-inner" class="pkg">
+    <h2>Links:</h2>
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+  </div>
+  <div id="beta-inner" class="pkg">
+    <h2>News:</h2>
+      <ul>
+      {% for post in site.posts offset: 0 limit: 5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+  </div>
+</div>

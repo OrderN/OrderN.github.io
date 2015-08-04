@@ -1,0 +1,14 @@
+---
+layout: post
+title: DeltaSCF method
+published: true
+year: 2013
+month: 03
+day: 07
+summary: The DeltaSCF method has been implemented in CONQUEST
+---
+The delta self-consistent field (DeltaSCF) method is now available in CONQUEST,
+added by David Bowler and Umberto Terranova. The code has been committed as
+r161, and full details have been published[1].
+
+[1] J. Comput. Theor. Chem. **9**, 3181 (2013) DOI:[10.1021/ct400356k](http://dx.doi.org/10.1021/ct400356k)

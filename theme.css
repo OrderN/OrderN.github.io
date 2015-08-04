@@ -1,0 +1,168 @@
+body
+{
+	margin: 0;
+	/* setting border: 0 hoses ie5 win window inner well border */
+	padding: 0;
+	font-family: verdana, 'trebuchet ms', sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+}
+a { color: #36414d; text-decoration: underline; }
+a:hover { color: #a3b8cc; }
+
+body
+{
+	min-width: 720px;
+	color: #333;
+	background: #666666;
+}
+
+#container
+{
+	width:90%;	margin-bottom: 20px;
+	background: #FFFFFF;
+}
+#container
+{
+	position: relative;
+	margin: 0 auto; /* center on everything else */
+	text-align: left;
+}
+#container-inner { position: static; width: auto; }
+
+
+
+#container-inner
+{
+border-right: 5px solid #292E33;
+border-bottom: 5px solid #292E33;
+border-left: 5px solid #292e33;
+}
+
+
+
+#banner
+{
+	width: 100%;
+	background-color: #003366;
+	background-image: url("images/WideHutFade.png");	background-repeat: no-repeat; background-position: right;
+	height: 120px;
+}
+#banner a { color: #FFFFFF; text-decoration: none; }
+#banner a:hover { color: #FFFFFF; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+h1, h2, h3, h4, h5, h6, p, ol, ul, pre, blockquote
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#pagebody { position: relative; width: 100%; }
+#pagebody-inner { position: static; width: 100%; }
+
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'trebuchet ms', verdana, helvetica, arial, sans-serif;
+}
+
+
+#banner { position: relative; }
+#banner-inner { position: static; }
+
+
+#banner-header
+{
+	margin: 0;
+	font-family: 'Trebuchet MS', Verdana, sans-serif;
+	color: #FFFFFF;
+	font-size: x-large;
+	text-align: left;
+font-weight:bold;	line-height: 1;
+}
+
+#banner-description
+{
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-family: 'Trebuchet MS', Verdana, sans-serif;
+	color: #FFFFFF;
+	font-size: small;
+	text-align: left;
+font-weight:bold;	background: none;
+	line-height: 1.125;
+}
+
+#banner-inner
+{
+	padding: 15px 13px;
+border-top: 2px solid #FFFFFF;
+border-right: 2px solid #FFFFFF;
+border-left: 2px solid #FFFFFF;
+height:120px;
+}
+
+#footer { float:left; margin: 15px 15px 0 15px; width:95%; background: #FFFFFF; }
+
+#alpha { float:left; margin: 15px 15px 0 15px; width:70%; background: #FFFFFF; }
+#beta { float:right; width:25%; background: #e6ecf2; }
+#gamma, #delta { float:right; width:20%; background: #e6ecf2; }
+
+#beta-inner,
+#gamma-inner,
+#delta-inner
+{
+   padding: 10px 10px 0 10px;
+   border-width: 2px 2px 2px 0;
+   border-style: solid;
+   border-color: #fff;
+}
+
+
+	#alpha-inner {
+		padding: 10px 10px 0 10px;
+	border-top: 2px solid #FFFFFF;
+border-right: 2px solid #FFFFFF;
+border-bottom: 2px solid #FFFFFF;
+
+	}
+
+	#beta-inner {
+		padding: 10px 10px 0 10px;
+	border-top: 2px solid #FFFFFF;
+border-right: 2px solid #FFFFFF;
+border-bottom: 2px solid #FFFFFF;
+
+	}
+
+
+	#gamma-inner {
+		padding: 10px 10px 0 10px;
+	border-top: 2px solid #FFFFFF;
+border-right: 2px solid #FFFFFF;
+border-bottom: 2px solid #FFFFFF;
+
+	}
+.nav-previous,
+.previous-image {
+        float: left;
+        width: 50%;
+}
+.nav-next,
+.next-image {
+        float: right;
+        text-align: right;
+        width: 50%;
+}
+	/* .pkg class wraps enclosing block element around inner floated elements */
+	.pkg:after
+	{
+		content: " ";
+		display: block;
+		visibility: hidden;
+		clear: both;
+		height: 0.1px;
+		font-size: 0.1em;
+		line-height: 0;
+	}
