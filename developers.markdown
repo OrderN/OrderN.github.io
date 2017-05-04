@@ -6,10 +6,11 @@ published: true
 ## Department of Physics and Astronomy and London Centre for Nanotechnology, UCL, London, UK
 
 * Dave Bowler
-* Conn O'Rourke
 * Shereif Mujahed
 * Kane Shenton
-* Mike Gillan
+* Jack Baker
+* Jack Poulton
+* Chathu Kumarasinghe
 
 ## Computational Materials Science Centre, National Institute for Materials Science, Tsukuba, Japan
 
@@ -20,6 +21,10 @@ published: true
 ## Institute For Molecular Simulations, University of Bordeaux I, Bordeaux, France
 
 * Lionel Truflandier
+
+## Initiator of Conquest
+
+* Mike Gillan (now retired)
 
 ## Previous Conquest Developers
 
@@ -35,3 +40,4 @@ published: true
 * Veronika Brazdova
 * Michiaki Arita
 * Sergiu Arapan
+* Conn O'Rourke

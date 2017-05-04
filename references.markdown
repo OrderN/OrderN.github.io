@@ -8,6 +8,24 @@ of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication but you can also see it
 ordered by area.
 
+### 2017
+<a name="Y2017"></a>
+
+### 2016
+<a name="Y2016"></a>
+
+* ``Communication: Generalized canonical purification for density matrix minimization'', L. A. Truflandier, R. M. Dianzinga and D. R. Bowler, J. Chem. Phys. **144**, 091102 (2016) [DOI:10.1063/1.4943213](http://dx.doi.org/10.1063/1.4943213)
+
+### 2015
+<a name="Y2015"></a>
+
+   * ``Linear scaling density matrix real time TDDFT: Propagator unitarity and matrix truncation'', C. O'Rourke and D. R. Bowler, J. Chem. Phys. **143**, 102801 (2015) [DOI:10.1063/1.4919128](http://dx.doi.org/10.1063/1.4919128)
+   
+### 2014
+<a name="Y2014"></a>
+
+* ``Stable and Efficient Linear Scaling First-Principles Molecular Dynamics for 10,000+ atoms'', M. Arita,  D. R. Bowler and T. Miyazaki, J. Chem. Theory Comput. **10** 5419 (2014) [DOI:10.1021/ct500847y](http://dx.doi.org/10.1021/ct500847y)
+
 ### 2013
 <a name="Y2013"></a>
 
