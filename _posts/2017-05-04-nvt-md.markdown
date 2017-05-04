@@ -1,0 +1,14 @@
+---
+layout: post
+title: NVT Molecular dynamics
+published: true
+year: 2017
+month: 5
+day: 4
+summary: Implementation of O(N) NVT MD in CONQUEST
+---
+We have implemented and tested Nose-Hoover chains for constant temperature (NVT) molecular dynamics within the extended-Lagrangian Born-Oppenheimer (XL-BOMD) framework, and demonstrated excellent conservation for complex systems up to 1500K.
+
+The research has been submitted to J. Phys.: Condens. Matter, and is available on arXiv[1].
+
+[1] [arXiv:1705.01448](http://arxiv.org/abs/1705.01448)
