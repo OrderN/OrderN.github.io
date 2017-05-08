@@ -15,21 +15,25 @@ ordered by area.
 <a name="Y2016"></a>
 
 * ``Communication: Generalized canonical purification for density matrix minimization'', L. A. Truflandier, R. M. Dianzinga and D. R. Bowler, J. Chem. Phys. **144**, 091102 (2016) [DOI:10.1063/1.4943213](http://dx.doi.org/10.1063/1.4943213)
+* ``Linear-scaling first-principles molecular dynamics of complex biological systems with the Conquest code'', T. Otsuka, M. Taiji, D. R. Bowler and T. Miyazaki, Jap. J. Appl. Phys. **55**,  1102B1  (2016) [On-line copy](http://iopscience.iop.org/article/10.7567/JJAP.55.1102B1)
 
 ### 2015
 <a name="Y2015"></a>
 
    * ``Linear scaling density matrix real time TDDFT: Propagator unitarity and matrix truncation'', C. O'Rourke and D. R. Bowler, J. Chem. Phys. **143**, 102801 (2015) [DOI:10.1063/1.4919128](http://dx.doi.org/10.1063/1.4919128)
+   * ``Optimized multi-site local orbitals in the large-scale DFT program CONQUEST'', A. Nakata, D. Bowler and T. Miyazaki, Phys. Chem. Chem. Phys.  **17**,  31427  (2015) [DOI:10.1039/C5CP00934K](http://dx.doi.org/10.1039/C5CP00934K)
    
 ### 2014
 <a name="Y2014"></a>
 
-* ``Stable and Efficient Linear Scaling First-Principles Molecular Dynamics for 10,000+ atoms'', M. Arita,  D. R. Bowler and T. Miyazaki, J. Chem. Theory Comput. **10** 5419 (2014) [DOI:10.1021/ct500847y](http://dx.doi.org/10.1021/ct500847y)
+   * ``Stable and Efficient Linear Scaling First-Principles Molecular Dynamics for 10,000+ atoms'', M. Arita,  D. R. Bowler and T. Miyazaki, J. Chem. Theory Comput. **10** 5419 (2014) [DOI:10.1021/ct500847y](http://dx.doi.org/10.1021/ct500847y)
+   * ``Large-scale DFT simulations with a linear-scaling DFT code CONQUEST on K-computer'', M. Arita, S. Arapan, D. R. Bowler and T. Miyazaki, J. Adv. Simul. Sci. Eng.  **1**, 87 (2014) [DOI:10.15748/jasse.1.87](http://dx.doi.org/10.15748/jasse.1.87)
+   * ``Efficient Calculations with Multisite Local Orbitals in a Large-Scale DFT Code CONQUEST'', A. Nakata, D. R. Bowler and T. Miyazaki, J. Chem. Theory Comput. **10**, 4813  (2014) [DOI:10.1021/ct5004934](http://dx.doi.org/10.1021/ct5004934)
 
 ### 2013
 <a name="Y2013"></a>
 
-   * ``Density-functional theory study of gramicidin A ion channel geometry and electronic properties'', Milica Todorović, D. R. Bowler, M. J. Gillan, Tsuyoshi Miyazaki, submitted to J. Royal Soc. Interface (2013). On-line copy. *First paper studying gramicidin A (further papers in preparation)*
+   * ``Density-functional theory study of gramicidin A ion channel geometry and electronic properties'', Milica Todorović, D. R. Bowler, M. J. Gillan, Tsuyoshi Miyazaki, J. R. Soc. Interface **10**, 20130547 (2013). [DOI:10.1098/rsif.2013.0547](http://dx.doi/org/10.1098/rsif.2013.0547) *Paper studying the electrostatic potential in the gramicidin A channel*
 
 ### 2012
 <a name="Y2012"></a>
