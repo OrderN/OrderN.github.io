@@ -12,11 +12,13 @@ published: true
 * Jack Poulton
 * Chathu Kumarasinghe
 
-## Computational Materials Science Centre, National Institute for Materials Science, Tsukuba, Japan
+## Nano-theory Field,  International Center for Materials Nanoarchitectonics (WPI-MANA), National Institute for Materials Science, Tsukuba, Japan
 
 * Tsuyoshi Miyazaki
 * Ayako Nakata
-* Takao Otsuka
+* Jianbo Lin
+* Zamaan Raza
+* Takao Otsuka (RIKEN)
 
 ## Institute For Molecular Simulations, University of Bordeaux I, Bordeaux, France
 
