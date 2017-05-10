@@ -38,12 +38,12 @@ ordered by area.
 ### 2012
 <a name="Y2012"></a>
 
-   * ``O(N) methods in electronic structure calculations'', D. R. Bowler and T. Miyazaki, Rep. Prog. Phys. 75, 036503 (2012). On-line copy. *Exhaustive review of linear scaling methods.*
+   * ``O(N) methods in electronic structure calculations'', D. R. Bowler and T. Miyazaki, Rep. Prog. Phys. 75, 036503 (2012). [DOI:10.1088/0034-4885/75/3/036503](http://dx.doi.org/10.1088/0034-4885/75/3/036503) *Exhaustive review of linear scaling methods.*
 
 ### 2011
 <a name="Y2011"></a>
 
-   * ``Linear Scaling Constrained Density Functional Theory in CONQUEST'', A. M. P. Sena, T. Miyazaki and D. R. Bowler, J. Chem. Theory Comput. 7, 884 (2011). On-line copy. *Paper detailing the implementation of constrained DFT in Conquest.*
+   * ``Linear Scaling Constrained Density Functional Theory in CONQUEST'', A. M. P. Sena, T. Miyazaki and D. R. Bowler, J. Chem. Theory Comput. 7, 884 (2011). [DOI:10.1021/ct100601n](http://dx.doi.org/10.1021/ct100601n) *Paper detailing the implementation of constrained DFT in Conquest.*
 
 ### 2010
 <a name="Y2010"></a>
