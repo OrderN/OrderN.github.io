@@ -20,7 +20,7 @@ published: true
 * Zamaan Raza
 * Takao Otsuka (RIKEN)
 
-## Institute For Molecular Simulations, University of Bordeaux I, Bordeaux, France
+## Institute For Molecular Sciences, University of Bordeaux, Talence, France
 
 * Lionel Truflandier
 
