@@ -5,24 +5,37 @@ published: true
 ---
 This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
-preprints. This list is ordered by year of publication but you can also see it
-ordered by area.
+preprints. This list is ordered by year of publication.
+
+### 2019
+<a name="Y2019"></a>
+
+* ``Gate controlling of quantum interference and direct observation of anti-resonances in single molecule charge transport'', Y. Li, M. Buerkle, G. Li, A. Rostamian, H. Wang, Z. Wang, D. R. Bowler, T. Miyazaki, L. Xiang, Y. Asai, G. Zhou and N. Tao, Nature Mater. **18**, 357 (2019) [DOI:10.1038/s41563-018-0280-5](https://doi.org/10.1038/s41563-018-0280-5)
+
+### 2018
+<a name="Y2018"></a>
+
+* ``Structural properties of silicon–germanium and germanium–silicon core–shell nanowires'', C. O’Rourke, S. Y. Mujahed, C. Kumarasinghe, T. Miyazaki and D. R. Bowler, J. Phys.: Condens. Matter **30** 465303 (2018) [DOI:10.1088/1361-648X/aae617](https://doi.org/10.1088/1361-648X/aae617)
+* ``High-accuracy large-scale DFT calculations using localized orbitals in complex electronic systems: the case of graphene–metal interfaces'', C. Romero-Muñiz, A. Nakata, P. Pou, D. R. Bowler, T. Miyazaki and R. Pérez, J. Phys.: Condens. Matter **30** 505901 (2018) [DOI:10.1088/1361-648X/aaec4c](https://doi.org/10.1088/1361-648X/aaec4c)
 
 ### 2017
 <a name="Y2017"></a>
+
+* ``Efficient Calculation of Electronic Structure Using O(N) Density Functional Theory'', A. Nakata, Y. Futamura, T. Sakurai, D. R. Bowler and T. Miyazaki, J. Chem. Theory Comput. **13** 4146 (2017) [DOI:10.1021/acs.jctc.7b00385](https://doi.org/10.1021/acs.jctc.7b00385)
+* ``Canonical-ensemble extended Lagrangian Born--Oppenheimer molecular dynamics for the linear scaling density functional theory'', T. Hirakawa, T. Suzuki, D. R. Bowler and T. Miyazaki, J. Phys.: Condens. Matter **29** 405901 (2017) [DOI:10.1088/1361-648X/aa810d](https://doi.org/10.1088/1361-648X/aa810d)
 
 ### 2016
 <a name="Y2016"></a>
 
 * ``Communication: Generalized canonical purification for density matrix minimization'', L. A. Truflandier, R. M. Dianzinga and D. R. Bowler, J. Chem. Phys. **144**, 091102 (2016) [DOI:10.1063/1.4943213](http://dx.doi.org/10.1063/1.4943213)
-* ``Linear-scaling first-principles molecular dynamics of complex biological systems with the Conquest code'', T. Otsuka, M. Taiji, D. R. Bowler and T. Miyazaki, Jap. J. Appl. Phys. **55**,  1102B1  (2016) [On-line copy](http://iopscience.iop.org/article/10.7567/JJAP.55.1102B1)
+* ``Linear-scaling first-principles molecular dynamics of complex biological systems with the Conquest code'', T. Otsuka, M. Taiji, D. R. Bowler and T. Miyazaki, Jap. J. Appl. Phys. **55**,  1102B1  (2016) [On-line copy](https://doi.org/10.7567/JJAP.55.1102B1)
 
 ### 2015
 <a name="Y2015"></a>
 
    * ``Linear scaling density matrix real time TDDFT: Propagator unitarity and matrix truncation'', C. O'Rourke and D. R. Bowler, J. Chem. Phys. **143**, 102801 (2015) [DOI:10.1063/1.4919128](http://dx.doi.org/10.1063/1.4919128)
    * ``Optimized multi-site local orbitals in the large-scale DFT program CONQUEST'', A. Nakata, D. Bowler and T. Miyazaki, Phys. Chem. Chem. Phys.  **17**,  31427  (2015) [DOI:10.1039/C5CP00934K](http://dx.doi.org/10.1039/C5CP00934K)
-   
+
 ### 2014
 <a name="Y2014"></a>
 
