@@ -5,7 +5,7 @@ published: true
 year: 2018
 month: 11
 day: 23
-summary: calculating the properties of a graphene-metal system on a large scale
+summary: Calculating the properties of a graphene-metal system on a large scale
 ---
 In this work, we calculate the electronic and structural properties of a graphene–metal
 system significantly larger than in previous plane-wave calculations with the same accuracy.

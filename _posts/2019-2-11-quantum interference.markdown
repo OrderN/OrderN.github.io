@@ -1,11 +1,11 @@
 ---
 layout: post
-title: quantum interference and charge transport
+title: Quantum interference and charge transport
 published: true
 year: 2019
 month: 2
 day: 11
-summary: measuring the effects of quantum interference on charge transport
+summary: Measuring the effects of quantum interference on charge transport
 ---
 Here, by means of electrochemical gating, we measure the conductance and map the
 transmission functions of single molecules at and around the Fermi energy, and study

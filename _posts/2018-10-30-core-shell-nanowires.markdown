@@ -1,11 +1,11 @@
 ---
 layout: post
-title: core–shell nanowires
+title: Core–shell nanowires
 published: true
 year: 2018
 month: 10
 day: 30
-summary: studying the structural properties of Si/Ge and Ge/Si core-shell nanowires
+summary: Studying the structural properties of Si/Ge and Ge/Si core-shell nanowires
 ---
 Core–shell nanowires made of Si and Ge can be grown experimentally with excellent control
 for different sizes of both core and shell. We have studied the structural properties of Si/Ge
