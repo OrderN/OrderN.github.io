@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electronic structure calculations
+title: O(N) DFT and electronic structure
 published: true
 year: 2017
 month: 7
@@ -8,7 +8,7 @@ day: 17
 summary: O(N) DFT and Sakurai–Sugiura method efficiently simulating 10000+ atoms
 ---
 We propose an efficient way to calculate the electronic structure of large systems
-by combining a large-scale first-principles density functional theory code,
+by combining a linear-scaling first-principles density functional theory code,
 Conquest, and an efficient interior eigenproblem solver, the Sakurai–Sugiura method. [1]
 It is available on [arXiv](https://arxiv.org/abs/1704.03203)
 
