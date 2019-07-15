@@ -20,7 +20,7 @@ acids have been replaced with alanine.
 
 ![Figure 5 showing DFT electrostatic potential](/images/GA_Fig5.jpg)
 
-A preprint is available [here](http://arxiv.org/abs/1303.0090).
+A preprint is available on [arXiv](http://arxiv.org/abs/1303.0090).
 
 DFT electrostatic potential [eV]: (a)-(c) are cross sections perpendicular to
 the channel axis (z) at 9.6 A from the centre of the channel. (a) 1MAG geometry;
