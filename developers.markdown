@@ -7,10 +7,8 @@ published: true
 
 * Dave Bowler
 * Shereif Mujahed
-* Kane Shenton
 * Jack Baker
 * Jack Poulton
-* Chathu Kumarasinghe
 
 ## Nano-theory Field,  International Center for Materials Nanoarchitectonics (WPI-MANA), National Institute for Materials Science, Tsukuba, Japan
 
@@ -43,3 +41,9 @@ published: true
 * Michiaki Arita
 * Sergiu Arapan
 * Conn O'Rourke
+* Kane Shenton
+* Chathu Kumarasinghe
+
+### Web development and updates
+
+* Jonny Bowler (UCL)
