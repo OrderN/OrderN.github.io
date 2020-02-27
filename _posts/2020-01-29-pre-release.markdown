@@ -5,7 +5,7 @@ published: true
 year: 2020
 month: 1
 day: 29
-summary: Conquest is available as an open-source project
+summary: Conquest is available under an open-source licence
 ---
 We are happy to announce that CONQUEST, a large scale DFT code, is now
 available as an open source project (MIT licence).  While it is a

@@ -3,9 +3,9 @@ layout: default
 title: "CONQUEST: Linear Scaling DFT"
 published: true
 ---
-# Welcome to the Conquest web site.
+# Welcome to the CONQUEST web site.
 
-Conquest is a large scale DFT electronic structure code, capable of
+CONQUEST is a large scale DFT electronic structure code, capable of
 both diagonalisation and linear scaling, or O(N), calculations. 
 It has been developed jointly by [NIMS (National Institute for Materials Science,
 Japan)](http://www.nims.go.jp) and [UCL](http://www.ucl.ac.uk). The
@@ -18,9 +18,12 @@ workstations up to high performance computing centres. These web pages
 contain information on the code, and its applications, as well as
 separate areas for developers. 
 
-Conquest is now available as an open source project under an MIT
-licence.  The source code is available 
-[on GitHub](https://github.com/OrderN/CONQUEST-release). 
+CONQUEST is now available as an open source project under an MIT
+licence.
+
+* The source code is available [on GitHub](https://github.com/OrderN/CONQUEST-release). 
+* The manual is [on ReadTheDocs](https://conquest.readthedocs.io/)
+
 While it is a complete, robust code, we are designating this release
 as a pre-release, as there are some changes that will be made over the
 next few months to improve the user-friendliness of the code. 
@@ -28,7 +31,7 @@ next few months to improve the user-friendliness of the code.
 At present, we are looking for early adopters to use the code, submit
 bug reports and suggestions improvement.  We particularly welcome new
 developers of the code.  The present roadmap for the code can be seen
-on the GitHub issues page. 
+on [the GitHub issues page](https://github.com/OrderN/CONQUEST-release/issues).
 
 If you are interested in more details about O(N) methods,
 you can find a comprehensive review which we wrote
