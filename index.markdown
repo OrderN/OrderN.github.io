@@ -19,7 +19,8 @@ contain information on the code, and its applications, as well as
 separate areas for developers. 
 
 CONQUEST is now available as an open source project under an MIT
-licence.
+licence.  A recent comprehensive overview is available on
+[arXiv](https://arxiv.org/abs/1907.05768). 
 
 * The source code is available [on GitHub](https://github.com/OrderN/CONQUEST-release). 
 * The manual is [on ReadTheDocs](https://conquest.readthedocs.io/)
@@ -45,6 +46,7 @@ You can find out more about Conquest in these pages:
    * [CONQUEST References](/references.html)
    * [CONQUEST Developers](/developers.html)
 * [Using CONQUEST](/using.html)
+* [All CONQUEST news stories](/news.html)
 * [External Links](/links.html)
 
 ## Recent News

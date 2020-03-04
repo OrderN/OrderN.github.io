@@ -3,10 +3,18 @@
     <h2>Links:</h2>
     <ul>
       <li><a href="/index.html">Home</a></li>
+      <li><a href="/about.html">About CONQUEST</a></li>
+      <li><a href="/news.html">CONQUEST News</a></li>
+    </ul>
+    <h2>External Links:</h2>
+    <ul>
+      <li><a href="https://github.com/OrderN/CONQUEST-release">CONQUEST source</a></li>
+      <li><a href="https://conquest.readthedocs.io/">CONQUEST manual</a></li>      
+      <li><a href="https://github.com/OrderN/CONQUEST-release/issues">CONQUEST roadmap</a></li>
     </ul>
   </div>
   <div id="beta-inner" class="pkg">
-    <h2>News:</h2>
+    <h2>Recent News:</h2>
       <ul>
       {% for post in site.posts offset: 0 limit: 5 %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
