@@ -9,6 +9,14 @@ preprints. This list is ordered by year of publication.
 
 ### 2019
 <a name="Y2019"></a>
+* "Highly accurate local basis sets for large-scale DFT calculations
+in CONQUEST", D. R. Bowler, J. S. Baker, J. T. L. Poulton,
+S. Y. Mujahed, J. Lin, S. Yadav, Z. Raza and T. Miyazaki,
+Jap. J. Appl. Phys. **58**, 100503 (2019) [DOI:10.7567/1347-4065/ab45af](https://doi.org/10.7567/1347-4065/ab45af)
+
+* "DFT study of undoped and As-doped Si nanowires approaching the bulk
+limit", C. Kumarasinghe and D. R. Bowler, J. Phys.: Condens. Matter
+**32**, 035304 (2019) [DOI:10.1088/1361-648x/ab4b3c](https://doi.org/10.1088/1361-648x/ab4b3c)
 
 * "Gate controlling of quantum interference and direct observation of anti-resonances in single molecule charge transport", Y. Li, M. Buerkle, G. Li, A. Rostamian, H. Wang, Z. Wang, D. R. Bowler, T. Miyazaki, L. Xiang, Y. Asai, G. Zhou and N. Tao, Nature Mater. **18**, 357 (2019) [DOI:10.1038/s41563-018-0280-5](https://doi.org/10.1038/s41563-018-0280-5)
 
