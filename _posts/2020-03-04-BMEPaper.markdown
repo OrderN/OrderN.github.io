@@ -1,0 +1,14 @@
+---
+layout: post
+title: Blue-moon ensemble MD for anti-cancer drugs
+published: true
+year: 2020
+month: 3
+day: 04
+summary: Paper using CONQUEST to explore hydration of anti-cancer drugs
+---
+We have submitted a paper to Inorganic Chemistry which uses CONQUEST
+to perform blue-moon ensemble (BME) MD calculations for the hydration
+(aquation) free energy of platinum-containing anti-cancer drugs.
+The paper is available on [arXiv](https://arxiv.org/abs/2003.01418).
+
