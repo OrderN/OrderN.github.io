@@ -7,6 +7,35 @@ This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication.
 
+### 2020
+<a name="Y2020"></a>
+
+* "Notes on density matrix perturbation theory", L. A. Truflandier,
+  R. M. Dianzinga and D. R. Bowler, J. Chem. Phys. **153**, 164105
+  (2020) [DOI:10.1063/5.0022244](https://doi.org/10.1063/5.0022244)
+
+* "Polar Morphologies from First Principles: PbTiO3 Films on SrTiO3
+  Substrates and the p(2×Λ) Surface Reconstruction", J. S. Baker and
+  D. R. Bowler, Adv. Theory Simul. **3**, 2000154 (2020)
+  [DOI:10.1002/adts.202000154](https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.202000154)
+
+* "Blue moon ensemble simulation of aquation free energy profiles
+  applied to mono and bifunctional platinum anticancer drugs",
+  T. Hirakawa, D. R. Bowler, T. Miyazaki, Y. Morikawa and
+  L. A. Truflandier, J. Comput. Chem. **41**, 1973 (2020)
+  [DOI:10.1002/jcc.26367](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26367)
+
+* "The pseudoatomic orbital basis: electronic accuracy and soft-mode
+  distortions in ABO3 perovskites", J. S. Baker, T. Miyazaki and
+  D. R. Bowler, Electron. Struct. **2**, 025002 (2020)
+  [DOI:10.1088/2516-1075/ab950e](https://doi.org/10.1088/2516-1075/ab950e)
+
+* "Large scale and linear scaling DFT with the CONQUEST code",
+  A. Nakata, J. S. Baker, S. Y. Mujahed, J. T. L. Poulton, S. Arapan,
+  J. Lin, Z. Raza, S. Yadav, L. Truflandier, T. Miyazaki and
+  D. R. Bowler, J. Chem. Phys. **152**, 164112 (2020)
+  [DOI:10.1063/5.0005074](https://doi.org/10.1063/5.0005074)
+
 ### 2019
 <a name="Y2019"></a>
 * "Highly accurate local basis sets for large-scale DFT calculations
