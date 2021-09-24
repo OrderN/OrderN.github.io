@@ -7,8 +7,36 @@ This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication.
 
+### 2021
+<a name="Y2021"></a>
+
+* "The Emergence of Multiple Coordination Numbers in Gold–Cyanoarene
+  Complexes: A Study of the On-Surface Coordination Mechanism", Waka
+  Nakanishi, Ayako Nakata, Paola Perez, Masayuki Takeuchi, Christian
+  Joachim, and Keisuke Sagisaka, J. Phys. Chem. C **125**, 9937 (2021)
+  [DOI:10.1021/acs.jpcc.1c02456](https://doi.org/10.1021/acs.jpcc.1c02456)
+
+* "Air-Stable and Reusable Cobalt Phosphide Nanoalloy Catalyst for
+  Selective Hydrogenation of Furfural Derivatives", Hiroya Ishikawa,
+  Min Sheng, Ayako Nakata, Kiyotaka Nakajima, Seiji Yamazoe, Jun
+  Yamasaki, Sho Yamaguchi, Tomoo Mizugaki, and Takato Mitsudome, ACS
+  Catal. **11**, 750 (2021)
+  [DOI:10.1021/acscatal.0c03300](https://doi.org/10.1021/acscatal.0c03300)
+
 ### 2020
 <a name="Y2020"></a>
+
+* "Structural change of damaged polyethylene by beta-decay of
+  substituted tritium using reactive force field", Haolun Li, Susumu
+  Fujiwara, Hiroaki Nakamura, Tomoko Mizuguchi, Ayako Nakata, Tsuyoshi
+  Miyazaki and Shinji Saito, Jpn. J. Appl. Phys. **60**, SAAB06 (2020)
+  [DOI:10.35848/1347-4065/abbdc8](https://doi.org/10.35848/1347-4065/abbdc8)
+
+* "First-principles study of topologically protected vortices and
+  ferroelectric domain walls in hexagonal YGaO3", Didrik R. Småbråten,
+  Ayako Nakata, Dennis Meier, Tsuyoshi Miyazaki, and Sverre
+  M. Selbach, Phys. Rev. B **102**, 144103 (2020)
+  [DOI:10.1103/PhysRevB.102.144103](https://doi.org/10.1103/PhysRevB.102.144103)
 
 * "Notes on density matrix perturbation theory", L. A. Truflandier,
   R. M. Dianzinga and D. R. Bowler, J. Chem. Phys. **153**, 164105
@@ -29,6 +57,11 @@ preprints. This list is ordered by year of publication.
   distortions in ABO3 perovskites", J. S. Baker, T. Miyazaki and
   D. R. Bowler, Electron. Struct. **2**, 025002 (2020)
   [DOI:10.1088/2516-1075/ab950e](https://doi.org/10.1088/2516-1075/ab950e)
+
+* "A cobalt phosphide catalyst for the hydrogenation of nitriles",
+  Takato Mitsudome, Min Sheng, Ayako Nakata, Jun Yamasaki, Tomoo
+  Mizugaki and Koichiro Jitsukawa, Chem. Sci., **11**, 6682 (2020)
+  [DOI:10.1039/D0SC00247J](https://doi.org/10.1039/D0SC00247J)
 
 * "Large scale and linear scaling DFT with the CONQUEST code",
   A. Nakata, J. S. Baker, S. Y. Mujahed, J. T. L. Poulton, S. Arapan,

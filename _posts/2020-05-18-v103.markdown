@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hot fix (v1.0.3-pre) released
+published: true
+year: 2020
+month: 5
+day: 18
+summary: Hot fix released (v1.0.3-pre)
+---
+We have released v1.0.3-pre of the CONQUEST master branch today to fix a significant memory leak.  All users are encouraged to update to this version, or use the develop branch (which includes the fix and other updates).
