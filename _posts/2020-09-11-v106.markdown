@@ -1,0 +1,10 @@
+---
+layout: post
+title: Version 1.0.6-pre available
+published: true
+year: 2020
+month: 9
+day: 11
+summary: CONQUEST master branch is now on v1.0.6-pre
+---
+The master branch of CONQUEST has reached v1.0.6-pre, including fixes for bugs in two areas of the code, and missing pseudopotentials.  All users are urged to upgrade as soon as possible, or to use the develop branch, which includes these bug fixes and other developments.

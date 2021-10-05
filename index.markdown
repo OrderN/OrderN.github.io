@@ -19,8 +19,7 @@ contain information on the code, and its applications, as well as
 separate areas for developers. 
 
 CONQUEST is now available as an open source project under an MIT
-licence.  A recent comprehensive overview is available on
-[arXiv](https://arxiv.org/abs/2002.07704). 
+licence.  A recent comprehensive overview has been published: [J. Chem. Phys. **152**, 164112 (2020)](https://doi.org/10.1063/5.0005074); a freely available copy is on [arXiv](https://arxiv.org/abs/2002.07704). 
 
 * The source code is available [on GitHub](https://github.com/OrderN/CONQUEST-release). 
 * The manual is [on ReadTheDocs](https://conquest.readthedocs.io/)
