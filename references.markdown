@@ -10,6 +10,17 @@ preprints. This list is ordered by year of publication.
 ### 2021
 <a name="Y2021"></a>
 
+* "Origin of Ferroelectric Domain Wall Alignment with Surface Trenches
+  in Ultrathin Films", J. S. Baker and D. R. Bowler,
+  Phys. Rev. Lett. *127*, 247601 (2021)
+  [DOI:10.1103/PhysRevLett.127.247601](https://link.aps.org/doi/10.1103/PhysRevLett.127.247601)
+
+* "The investigation of methane storage at the Ni-MOF-74 material: a
+  periodic DFT calculation", Chen-Hao Yeh, Abdul Hannan Khan, Tsuyoshi
+  Miyazaki and Jyh-Chiang Jiang, Phys. Chem. Chem. Phys. **23**, 12270
+  (2021)
+  [DOI:10.1039/D1CP01276B](https://doi.org/10.1039/D1CP01276B)
+
 * "The Emergence of Multiple Coordination Numbers in Gold–Cyanoarene
   Complexes: A Study of the On-Surface Coordination Mechanism", Waka
   Nakanishi, Ayako Nakata, Paola Perez, Masayuki Takeuchi, Christian
