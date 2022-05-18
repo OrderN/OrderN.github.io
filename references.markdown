@@ -7,6 +7,16 @@ This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication.
 
+### 2022
+<a name="Y2022"></a>
+
+* "Structural analysis based on unsupervised learning: Search for a
+  characteristic low-dimensional space by local structures in
+  atomistic simulations", Ryo Tamura, Momo Matsuda, Jianbo Lin,
+  Yasunori Futamura, Tetsuya Sakurai, and Tsuyoshi Miyazaki,
+  Phys. Reg. B *105*, 075107 (2022)
+  [DOI:10.1103/PhysRevB.105.075107](https://doi.org/10.1103/PhysRevB.105.075107)
+
 ### 2021
 <a name="Y2021"></a>
 
