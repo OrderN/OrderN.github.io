@@ -7,14 +7,32 @@ This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication.
 
+### 2024
+<a name="Y2024"></a>
+
+* "Extraction of local structure differences in silica based on unsupervised learning", Anh Khoa Augustin Lu, Jianbo Lin, Yasunori Futamura, Tetsuya Sakurai, Ryo Tamura and Tsuyoshi Miyazaki, Phys. Chem. Chem. Phys., *26*, 11657 (2024) [10.1039/D3CP06298H](https://doi.org/10.1039/D3CP06298H)
+
+* "Insight into the generation of near infra-red (NIR) absorbing species in electrochromic surface-anchored metal–organic frameworks", Antoine Mazel, Matteo Fornasarig, Josianne Owona, Lionel Truflandier, Frédéric Castet and Aline Rougier, Dalton Trans., *53*, 1657 (2024) [10.1039/D3DT03822J](https://doi.org/10.1039/D3DT03822J)
+
+### 2023
+<a name="Y2023"></a>
+
+* "Roadmap on electronic structure codes in the exascale era", Vikram Gavini et al., Modelling Simul. Mater. Sci. Eng. *31* 063301 (2023) [https://doi.org/10.1088/1361-651X/acdf06](10.1088/1361-651X/acdf06)
+
+* "Determination of hyper-parameters in the atomic descriptors for efficient and robust molecular dynamics simulations with machine learning forces", Jianbo Lin, Ryo Tamura, Yasunori Futamura, Tetsuya Sakurai and Tsuyoshi Miyazaki, Phys. Chem. Chem. Phys. *25*, 17978 (2023) [10.1039/D3CP01922E](https://doi.org/10.1039/D3CP01922E)
+
 ### 2022
 <a name="Y2022"></a>
+
+* "Large-Scale DFT Methods for Calculations of Materials with Complex Structures", Ayako Nakata, David R. Bowler, Tsuyoshi Miyazaki, J. Phys. Soc. Jpn. *91*, 091011 (2022) [10.7566/JPSJ.91.091011](https://doi.org/10.7566/JPSJ.91.091011)
+
+* "Supported Anionic Gold Nanoparticle Catalysts Modified Using Highly Negatively Charged Multivacant Polyoxometalates", Kang Xia, Takafumi Yatabe, Kentaro Yonesato, et al., Angewandte Chemie Int. Ed. *61*, e202205873 (2022) [10.1002/anie.202205873](https://doi.org/10.1002/anie.202205873)
 
 * "Structural analysis based on unsupervised learning: Search for a
   characteristic low-dimensional space by local structures in
   atomistic simulations", Ryo Tamura, Momo Matsuda, Jianbo Lin,
   Yasunori Futamura, Tetsuya Sakurai, and Tsuyoshi Miyazaki,
-  Phys. Reg. B *105*, 075107 (2022)
+  Phys. Rev. B *105*, 075107 (2022)
   [DOI:10.1103/PhysRevB.105.075107](https://doi.org/10.1103/PhysRevB.105.075107)
 
 ### 2021
