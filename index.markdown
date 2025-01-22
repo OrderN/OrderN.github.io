@@ -30,7 +30,7 @@ a freely available copy is on [arXiv](https://arxiv.org/abs/2002.07704).
 * The source code is available [on GitHub](https://github.com/OrderN/CONQUEST-release). 
 * The manual is [on ReadTheDocs](https://conquest.readthedocs.io/)
 
-The code is presently on v1.1, with v1.2 to be released in July 2023.
+The code is presently on v1.4, released in December 2024.
 It is a complete, robust code which is compatible with a very accurate
 library of pseudopotentials,
 [PseudoDojo](http://http://www.pseudo-dojo.org).  We welcome bug
