@@ -7,6 +7,11 @@ This page lists the references relevant for Conquest, gives brief descriptions
 of each paper, contains links to on-line journals and also has PDF versions of
 preprints. This list is ordered by year of publication.
 
+### 2025
+<a name="Y2025"></a>
+
+
+
 ### 2024
 <a name="Y2024"></a>
 
